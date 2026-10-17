@@ -1,0 +1,10 @@
+#Test 1 input (4 10) result 150
+#Test 2 input (5 15) result 100
+#Test 3 input (6 12) result 150
+#Test 4 input (5 8) result 90
+#Test 5 input (7 20) result 122
+#Test 6 input (4 6) result 90
+#Test 7 input (5 25) result 47
+#Test 8 input (6 18) result 95
+#Test 9 input (8 30) result 290
+#Test 10 input (10 50) result 100
